@@ -1,3 +1,4 @@
+modified in master
 this is a new file
 added to feature A branch
 added another feature
